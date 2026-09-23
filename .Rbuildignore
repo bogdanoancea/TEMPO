@@ -1,2 +1,16 @@
 ^.*\.Rproj$
 ^\.Rproj\.user$
+^\.gitignore$
+^\.DS_Store$
+^\.Rhistory$
+^\.RData$
+^\.Ruserdata$
+^data$
+^data/
+^doc$
+^doc/
+^inst/\.DS_Store$
+^output$
+^output/
+^R/samplingstrata\.R$
+^tests/testthat/logTEMPO\.txt$
